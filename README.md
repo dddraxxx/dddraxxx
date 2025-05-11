@@ -1,6 +1,6 @@
 ### Hey there 👋  
 
-I’m **Qihua Dong**, a Ph.D. student in Computer Engineering at Northeastern University. My research lives at the intersection of **multimodal LLMs, reinforcement learning, and visual reasoning**.
+I’m **Qihua Dong (Drax)**, a Ph.D. student in Computer Engineering at Northeastern University. My research lives at the intersection of **multimodal LLMs, reinforcement learning, and visual reasoning**.
 
 - 🔭  Currently building large vision‑language models equipped with strong reasoning ability.  
 - 🤝  Open to collaborations on exciting AI problems—ping me anytime!   
