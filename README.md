@@ -10,28 +10,29 @@ I’m **Qihua Dong (Drax)**, a Ph.D. student in Computer Engineering at Northe
 <p align="left">
   <a href="https://github.com/dddraxxxx">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=dddraxxx&theme=dark&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=dddraxxx&theme=gruvbox&show_icons=true"
       height="160"
       style="margin:6px"
       alt="GitHub stats"
     />
   </a>
   <a href="https://github.com/dddraxxxx">
+      <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=dddraxxx&theme=gruvbox&hide_border=true"
+    height="160"
+    alt="GitHub streak"
+  />
+
+  </a>
+</p>
+
+<!-- <p align="left">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddraxxx&theme=dark&show_icons=true&hide_border=true&layout=compact"
       height="160"
       style="margin:6px"
       alt="Top languages"
     />
-  </a>
-</p>
-
-<!-- <p align="left">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=dddraxxx&theme=vue-dark&hide_border=true"
-    height="160"
-    alt="GitHub streak"
-  />
 </p> -->
 
 <!--
