@@ -6,7 +6,6 @@ I’m **Qihua Dong**, a Ph.D. student in Computer Engineering at Northeastern 
 - 🤝  Open to collaborations on exciting AI problems—ping me anytime!   
 - 📫  Reach me: `dongqh078@gmail.com`.  
 
----
 
 <p align="left">
   <a href="https://github.com/dddraxxxx">
