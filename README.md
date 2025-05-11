@@ -18,7 +18,7 @@ I’m **Qihua Dong**, a Ph.D. student in Computer Engineering at Northeastern 
   </a>
   <a href="https://github.com/dddraxxxx">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddraxxx&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dddraxxx&theme=dark&show_icons=true&hide_border=true&layout=compact"
       height="160"
       style="margin:6px"
       alt="Top languages"
