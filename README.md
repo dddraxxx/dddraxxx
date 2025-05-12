@@ -8,7 +8,7 @@ I’m **Qihua Dong (Drax)**, a Ph.D. student in Computer Engineering at Northe
 
 
 <p align="left">
-  <a href="https://github.com/dddraxxxx">
+  <a href="https://github.com/dddraxxx">
     <img
       src="https://github-readme-stats.vercel.app/api?username=dddraxxx&theme=gruvbox&show_icons=true"
       height="160"
@@ -16,7 +16,7 @@ I’m **Qihua Dong (Drax)**, a Ph.D. student in Computer Engineering at Northe
       alt="GitHub stats"
     />
   </a>
-  <a href="https://github.com/dddraxxxx">
+  <a href="https://github.com/dddraxxx">
       <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=dddraxxx&theme=gruvbox&hide_border=true"
     height="160"
