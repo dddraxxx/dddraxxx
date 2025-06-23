@@ -3,7 +3,7 @@
 I’m **Qihua Dong (Drax)**, a Ph.D. student in Computer Engineering at Northeastern University. My research lives at the intersection of **multimodal LLMs, reinforcement learning, and visual reasoning**.
 
 - 🔭  Currently building large vision‑language models equipped with strong reasoning ability.  
-- 🤝  Open to collaborations on exciting AI problems—ping me anytime!   
+- 🤝  Open to discussion on exciting AI problems—ping me anytime!   
 - 📫  Reach me: `dongqh078@gmail.com`.  
 
 
